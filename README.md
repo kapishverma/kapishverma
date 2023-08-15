@@ -1,10 +1,7 @@
-<a href="https://komarev.com/ghpvc/?username=kapishverma"> <img align="right"
-src="https://komarev.com/ghpvc/?username=kapishverma&label=Visitors&color=0e75b6&style=flat"
-alt="Profile visitor" />
-</a>
+<img align="right" src="https://komarev.com/ghpvc/?username=kapishverma&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 
-<h3 align="center"> <samp> Hey There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="width: 28px; position: relative; top: 5px;"> I am <b style="color: seagreen;"><a href="https://drive.google.com/drive/u/1/folders/1UrtUwtJ2v1HiI0QagoPc0QhQEdIl-xsS">Kapish Verma</a>
-</b></h3>
+<h1 align="center"> <samp> Hey There! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="width: 28px; position: relative; top: 5px;"> I am <b style="color: seagreen;"><a href="https://drive.google.com/drive/u/1/folders/1UrtUwtJ2v1HiI0QagoPc0QhQEdIl-xsS">Kapish Verma</a>
+</b></h1>
 
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Full%20Stack%20Developer;Recent%20Graduate%20Exploring%20the%20Web;Creating%20Web%20Magic%20with%20Code&center=true&width=440&height=30"></p>
@@ -48,4 +45,4 @@ alt="Profile visitor" />
 
 <p align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kapishverma&theme=radical" /></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=kapishverma&hide=prs&show_icons=true&theme=neon&icon_color=F8D866" height="200px" width="62.85%" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut&theme=neon&langs_count=4" height="200px" width="37.14%"/></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=kapishverma&hide=prs&show_icons=true&theme=neon&icon_color=F8D866" height="200px" width="62.85%" ><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kapishverma&layout=donut&theme=neon&langs_count=4" height="200px" width="37.14%"/></p>
